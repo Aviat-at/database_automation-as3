@@ -8,13 +8,6 @@
 1. [Features](#features)
 2. [Requirements](#requirements)
 3. [Installation](#installation)
-4. [Configuration](#configuration)
-5. [Usage](#usage)
-6. [Testing](#testing)
-7. [Database](#database)
-8. [Docker](#docker)
-9. [Contributing](#contributing)
-10. [License](#license)
 
 ## Features
 - User registration and login
