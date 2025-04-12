@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django secret settings (if you use local settings)
+*.env
+.env
+*.local
+settings_local.py
+
+# SQLite (if used)
+*.sqlite3
+
+# Migrations (optional to ignore if shared DB migrations)
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# VS Code
+.vscode/
+
+# Mac and Linux system files
+.DS_Store
+Thumbs.db
+
+# Static & media (optional)
+staticfiles/
+media/
+
+# Logs
+*.log
+
+# Coverage & testing
+htmlcov/
+.coverage
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
